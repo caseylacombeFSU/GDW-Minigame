@@ -29,5 +29,6 @@ Dev Log:
   Added to the object destuction script that if a ball object makes it past the player the player is destroyed
   Created materials for each of the primative objects
   Created stripe objects to make the road more fleshed out
+  Added a Scoreboard UI and wrote script to update it
 
 All assets used were created by me.  All of them are unity primatives with matte color material applied
